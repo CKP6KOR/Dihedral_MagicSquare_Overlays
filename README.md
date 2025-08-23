@@ -30,18 +30,22 @@ Toggle grid and number labels
 
 
 **Clone this repo:**
+
 git clone https://github.com/CKP6KOR/Dihedral_MagicSquare_Overlays.git
 
 cd magic-square-overlays
 
 **Install dependencies:**
+
 pip install -r requirements.txt
 
 **Run the app:**
+
 streamlit run app.py
 Open the local URL shown in your terminal (usually http://localhost:8501).
 
 **Files**
+
 app.py – main Streamlit application
 
 requirements.txt – dependencies (streamlit, matplotlib, numpy)
