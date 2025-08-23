@@ -31,6 +31,7 @@ Toggle grid and number labels
 
 **Clone this repo:**
 git clone https://github.com/CKP6KOR/Dihedral_MagicSquare_Overlays.git
+
 cd magic-square-overlays
 
 **Install dependencies:**
