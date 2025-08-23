@@ -43,7 +43,9 @@ Open the local URL shown in your terminal (usually http://localhost:8501).
 
 **Files**
 app.py – main Streamlit application
+
 requirements.txt – dependencies (streamlit, matplotlib, numpy)
+
 README.md – this file
 
 **Examples : **
